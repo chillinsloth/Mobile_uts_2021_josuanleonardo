@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MusicPlay</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="ent_username">Enter Username</string>
+    <string name="ent_pass">Password</string>
+    <string name="fullname">Josuan Leonardo</string>
+    <string name="nim">00000027571</string>
+    <string name="kelas">Class BL</string>
+    <string name="ref_judul">Referensi</string>
+    <string name="ref_utub">Youtube : https://www.youtube.com/watch?v=9QOg8R8ol1w</string>
+    <string name="ref_utub2">https://www.youtube.com/watch?v=9QOg8R8ol1w</string>
+    <string name="ref_utub3">https://www.youtube.com/watch?v=tlOGecRQeOo&amp;t=1028s</string>
+    <string name="ref_utub4">https://www.youtube.com/watch?v=5PaWtQAOdi8</string>
+    <string name="ref_utub5">https://www.youtube.com/watch?v=74BMukDxEr8</string>
+    <string name="ref_utub6">https://www.youtube.com/watch?v=NM9RbDGl5C8</string>
+    <string name="ref_utub7">https://www.youtube.com/watch?v=oh4YOj9VkVE&amp;t=316s</string>
+    <string name="myprofile">My Profile Page</string>
+    <string name="loginfailed">Invalid Username or Password</string>
+    <string name="loginsucces">Login Successful</string>
+    <string name="welcomemsg">Welcome, Josuan Leonardo 00000027571</string>
+    <string name="oke">OKAY</string>
+    <string name="playing">Now Playing</string>
+    <string name="logout">Logout</string>
+</resources>
